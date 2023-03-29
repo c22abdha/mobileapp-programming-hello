@@ -1,7 +1,7 @@
 
 # Rapport
 
-**Skriv din rapport här!**
+**Today I made my first project on Android Studio and chose the type of mobile and wrote my name instead of Hello Worldٍ**
 
 _Du kan ta bort all text som finns sedan tidigare_.
 
